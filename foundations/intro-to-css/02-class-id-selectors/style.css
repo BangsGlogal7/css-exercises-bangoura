@@ -1,1 +1,21 @@
 /* Add CSS Styling */
+.Number {
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+    background-color: pink;
+}
+
+#Number-2 {
+    font-size: 36px;
+    color: blue;
+}
+
+.medium {
+    font-size: 24px;
+}
+
+#Number-4 {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold
+    ;
+}
